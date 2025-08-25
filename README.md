@@ -12,23 +12,23 @@ A MATLAB-based script and GUI application for analyzing the structural response 
 
 - Computes:
 
-   1- Deflection curve
+   1. Deflection curve
 
-   2- Bending moment distribution
+   2. Bending moment distribution
 
-   3- Shear force distribution
+   3. Shear force distribution
 
 - Supports:
 
-   1- Point loads and uniformly distributed loads (UDL)
+   1. Point loads and uniformly distributed loads (UDL)
 
-   2- Cantilever, Simply Supported, and Fixed-Fixed beams
+   2. Cantilever, Simply Supported, and Fixed-Fixed beams
 
 - Outputs:
 
-   1- Numerical summary in a results table
+   1. Numerical summary in a results table
 
-   2- Separate plots for deflection, bending moment, and shear force
+   2. Separate plots for deflection, bending moment, and shear force
 
 - Built using MATLAB App Designer for an interactive user experience
   
